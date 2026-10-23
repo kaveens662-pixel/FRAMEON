@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Cinema Film Frame Brackets -->
+    <!-- Top-left bracket -->
+    <path
+        android:pathData="M34,44 L34,34 L44,34"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Top-right bracket -->
+    <path
+        android:pathData="M64,34 L74,34 L74,44"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom-left bracket -->
+    <path
+        android:pathData="M34,64 L34,74 L44,74"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom-right bracket -->
+    <path
+        android:pathData="M64,74 L74,74 L74,64"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Stylized 'F' + Play triangle fusion emblem -->
+    <path
+        android:pathData="M44,40 L64,40 L64,45 L49,45 L49,51 L60,51 L60,56 L49,56 L49,68 L44,68 Z"
+        android:fillColor="#E0E0E6" />
+
+    <!-- Play aperture glow triangle (Liquid Silver accent) -->
+    <path
+        android:pathData="M54,49 L66,56 L54,63 Z"
+        android:fillColor="#388AF6" />
+
+    <!-- Liquid glass highlight dot -->
+    <path
+        android:pathData="M65,41m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0"
+        android:fillColor="#60A5FA" />
+</vector>

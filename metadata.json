@@ -1,0 +1,6 @@
+{
+  "name": "FRAMEON",
+  "description": "FRAMEON — Native Android video editor with Liquid Glass UI, AndroidX Media3 ExoPlayer timeline preview, and Transformer MP4 export. Created by Kaveen Sandeepa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
